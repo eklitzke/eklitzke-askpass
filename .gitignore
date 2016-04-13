@@ -1,0 +1,7 @@
+aclocal.m4
+build-aux/
+Makefile
+eklitzke-ask-pass
+*.in.h
+*.in
+src/config.h
